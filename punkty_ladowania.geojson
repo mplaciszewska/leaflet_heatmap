@@ -1,0 +1,3581 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-08T16:36:44Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/896478716",
+        "access": "customers",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "capacity:disabled": "0",
+        "fee": "yes",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649",
+        "orientation": "perpendicular",
+        "surface": "paving_stones",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8970671,
+          52.2391478
+        ]
+      },
+      "id": "way/896478716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1160913158",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9985166,
+          52.1544308
+        ]
+      },
+      "id": "way/1160913158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1223075629",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Ambra",
+        "capacity": "10",
+        "fee": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0172216,
+          52.1416043
+        ]
+      },
+      "id": "way/1223075629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1227806383",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0381378,
+          52.3171619
+        ]
+      },
+      "id": "way/1227806383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1242612428",
+        "amenity": "charging_station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1790098,
+          52.1929179
+        ]
+      },
+      "id": "way/1242612428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1263041097",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "14",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0496699,
+          52.2908961
+        ]
+      },
+      "id": "way/1263041097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1266537241",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "surface": "paving_stones",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8964713,
+          52.2297514
+        ]
+      },
+      "id": "way/1266537241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1272891734",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "41",
+        "addr:postcode": "00-347",
+        "addr:street": "Wybrzeże Kościuszkowskie",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "ref": "BA-1030-6 / BA-1020-8",
+        "rwetempcharging_station:plug": "Typ 2",
+        "socket:type2": "2",
+        "source:delivery_date": "2011/01/17",
+        "voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0310973,
+          52.2390326
+        ]
+      },
+      "id": "node/1272891734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1272891737",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "41",
+        "addr:postcode": "00-347",
+        "addr:street": "Wybrzeże Kościuszkowskie",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "ref": "BA-1027-2 / BA-1011-6",
+        "rwetempcharging_station:plug": "Typ 2",
+        "socket:type2": "2",
+        "source:delivery_date": "2011/01/17",
+        "voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0310666,
+          52.2390575
+        ]
+      },
+      "id": "node/1272891737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1375294622",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "80",
+        "addr:postcode": "02-757",
+        "addr:street": "Pory",
+        "amenity": "charging_station",
+        "amperage": "6",
+        "capacity": "2",
+        "fee": "no",
+        "operator": "E.ON",
+        "socket:type2": "2",
+        "source": "https://www.plugshare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.044686,
+          52.1904084
+        ]
+      },
+      "id": "node/1375294622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692272423",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "52",
+        "addr:postcode": "03-867",
+        "addr:street": "Nieświeska",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "capacity": "2",
+        "fee": "no",
+        "opening_hours": "24/7",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "socket:type2": "2",
+        "voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0824078,
+          52.2657049
+        ]
+      },
+      "id": "node/1692272423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3064453548",
+        "amenity": "charging_station",
+        "fee": "no",
+        "level": "-1",
+        "opening_hours": "Mo-Sa 10:00-22:00; Su 20:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9840264,
+          52.2577191
+        ]
+      },
+      "id": "node/3064453548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096920077",
+        "access": "private",
+        "alt_name": "Stacja ładowania pojazdów elektrycznych",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "authentication:membership_card": "yes",
+        "authentication:none": "no",
+        "authentication:phone_call": "yes",
+        "authentication:phone_call:number": "+48 22 5118461",
+        "capacity": "1",
+        "covered": "no",
+        "fee": "no",
+        "motorcar": "yes",
+        "name": "EVLink",
+        "opening_hours": "Mo-Fr 07:30-15:30",
+        "operator": "Schneider Electric Polska Sp. z o.o.",
+        "parking:fee": "no",
+        "ref": "5002D06",
+        "socket:type2": "2",
+        "socket:type2:output": "12.8 kW",
+        "voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9878198,
+          52.1854331
+        ]
+      },
+      "id": "node/4096920077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4315664231",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "EV+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9822489,
+          52.190906
+        ]
+      },
+      "id": "node/4315664231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4367406382",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0191847,
+          52.1071947
+        ]
+      },
+      "id": "node/4367406382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4373240219",
+        "alt_name": "GreenWay - Galeria Mokotów Warszawa",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "bicycle": "no",
+        "capacity": "3",
+        "fee": "yes",
+        "level": "0",
+        "motorcar": "yes",
+        "name": "GreenWay - Westfield Mokotów Warszawa",
+        "network": "GreenWay",
+        "opening_hours": "24/7",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281",
+        "phone": "+48 58 325 10 77",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "42 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0056834,
+          52.1794898
+        ]
+      },
+      "id": "node/4373240219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4420684501",
+        "amenity": "charging_station",
+        "brand": "Innogy",
+        "brand:wikidata": "Q2124721",
+        "brand:wikipedia": "de:Innogy",
+        "capacity": "2",
+        "fee": "no",
+        "name": "Innogy",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "socket:type2": "2",
+        "source": "https://www.plugshare.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0388792,
+          52.1427093
+        ]
+      },
+      "id": "node/4420684501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4621907192",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "no",
+        "motor_vehicle": "yes",
+        "operator": "DBT",
+        "socket:chademo": "1",
+        "source": "https://www.plugshare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0167574,
+          52.1513408
+        ]
+      },
+      "id": "node/4621907192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885117665",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "20",
+        "addr:postcode": "00-390",
+        "addr:street": "Wybrzeże Kościuszkowskie",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "socket:type2": "2",
+        "source": "https://www.plugshare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0281794,
+          52.2414839
+        ]
+      },
+      "id": "node/4885117665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885131773",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "socket:type2": "2",
+        "source": "eipa.udt.gov.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0105297,
+          52.2442314
+        ]
+      },
+      "id": "node/4885131773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885138760",
+        "addr:city": "Warszawa",
+        "addr:postcode": "00-110",
+        "addr:street": "Plac Defilad",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "no",
+        "operator": "E.ON",
+        "parking:fee": "yes",
+        "socket:type2": "2",
+        "source": "https://www.plugshare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0074131,
+          52.2305253
+        ]
+      },
+      "id": "node/4885138760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885153810",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "46",
+        "addr:postcode": "00-672",
+        "addr:street": "Piękna",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "socket:type2": "2",
+        "source": "https://www.plugshare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0135456,
+          52.2231318
+        ]
+      },
+      "id": "node/4885153810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885164826",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "2",
+        "addr:postcode": "00-620",
+        "addr:street": "Stanisława Rychlińskiego",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "socket:type2": "2",
+        "source": "https://www.plugshare.com/",
+        "website": "https://www.rwe.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0093143,
+          52.2129156
+        ]
+      },
+      "id": "node/4885164826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4885184290",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "22a",
+        "addr:postcode": "02-675",
+        "addr:street": "Wołoska",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281",
+        "socket:type2": "1",
+        "socket:type2_combo": "1",
+        "source": "https://www.plugshare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0028813,
+          52.1853087
+        ]
+      },
+      "id": "node/4885184290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4903362626",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "4",
+        "addr:postcode": "03-194",
+        "addr:street": "Zabłocka",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "socket:chademo": "1",
+        "socket:type2": "1",
+        "socket:type2_combo": "1",
+        "source": "https://www.plugshare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9872027,
+          52.3035429
+        ]
+      },
+      "id": "node/4903362626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4903362627",
+        "addr:city": "Warszawa",
+        "addr:housenumber": "6",
+        "addr:postcode": "02-882",
+        "addr:street": "Katarynki",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954",
+        "operator:wikipedia": "en:Lidl",
+        "socket:chademo": "1",
+        "socket:type2": "1",
+        "socket:type2_combo": "1",
+        "source": "https://www.plugshare.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0181128,
+          52.1085255
+        ]
+      },
+      "id": "node/4903362627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5185432854",
+        "access": "private",
+        "amenity": "charging_station",
+        "amperage": "32",
+        "authentication:membership_card": "yes",
+        "authentication:none": "no",
+        "capacity": "2",
+        "charging_station:output": "44 kW",
+        "fee": "no",
+        "name": "EVLink Parking",
+        "operator": "Zarząd Dróg Miejskich",
+        "parking:fee": "no",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "voltage": "400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9959461,
+          52.2284095
+        ]
+      },
+      "id": "node/5185432854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818953354",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "bicycle": "no",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "GreenWay - Wola Park Warszawa",
+        "network": "GreenWay",
+        "opening_hours": "24/7",
+        "operator": "GreenWay",
+        "phone": "+48 58 325 10 77",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "42 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9290619,
+          52.2412356
+        ]
+      },
+      "id": "node/5818953354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818953355",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "bicycle": "no",
+        "capacity": "5",
+        "description": "Located on level 3 (red), zone A5",
+        "description:en": "Located on level 3 (red), zone A5",
+        "description:pl": "Poziom 3 parkingu (czerwony), strefa A5",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "GreenWay - Atrium Promenada Warszawa",
+        "network": "GreenWay",
+        "opening_hours": "24/7",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281",
+        "phone": "+48 58 325 10 77",
+        "scooter": "no",
+        "socket:chademo": "2",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "42 kW",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1053,
+          52.2307
+        ]
+      },
+      "id": "node/5818953355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5818953356",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "greenway, floor -1, columns h1-j1",
+        "opening_hours": "24/7",
+        "operator": "GreenWay",
+        "socket:type2": "3",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9667691,
+          52.3174768
+        ]
+      },
+      "id": "node/5818953356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6695550242",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "no",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8965425,
+          52.2297382
+        ]
+      },
+      "id": "node/6695550242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6727719330",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "car": "yes",
+        "scooter": "no",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0022697,
+          52.1601092
+        ]
+      },
+      "id": "node/6727719330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853379072",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "bicycle": "no",
+        "capacity": "3",
+        "description": "Level -1, alley F (orange)",
+        "description:en": "Level -1, alley F (orange)",
+        "description:pl": "Poziom -1, aleja F (pomarańczowa)",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "GreenWay - Atrium Reduta Warszawa",
+        "network": "GreenWay",
+        "opening_hours": "24/7",
+        "phone": "+48 58 325 10 77",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "42 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9503993,
+          52.2119589
+        ]
+      },
+      "id": "node/6853379072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853379073",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "bicycle": "no",
+        "capacity": "3",
+        "description": "Underground parking, zone 13. When the shopping centre is closed: call security or infrom the shopping center management at +48223103000.",
+        "description:en": "Underground parking, zone 13. When the shopping centre is closed: call security or infrom the shopping center management at +48223103000.",
+        "description:pl": "Pargind podziemny, strefa 13. Kiedy centrum handlowe jest zamknięte, skontaktuj się z ochroną, lub zadzwoń wcześniej do sekretariatu centrum handlowego (+48223100300).",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "GreenWay - Sadyba Best Mall Warszawa",
+        "network": "GreenWay",
+        "opening_hours": "24/7",
+        "phone": "+48 58 325 10 77",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "42 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0606086,
+          52.1881184
+        ]
+      },
+      "id": "node/6853379073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853379074",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "bicycle": "no",
+        "capacity": "2",
+        "description:en": "Located on level I, zone F14",
+        "description:pl": "Ładowarka na poziomie I, strefa F14",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "GreenWay - Atrium Targówek Warszawa",
+        "network": "GreenWay",
+        "opening_hours": "24/7",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281",
+        "phone": "+48 58 325 10 77",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "42 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0586479,
+          52.3028714
+        ]
+      },
+      "id": "node/6853379074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853379075",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "bicycle": "no",
+        "capacity": "2",
+        "description": "Located on level 0, zone A12 (red)",
+        "description:en": "Located on level 0, zone A12 (red)",
+        "description:pl": "Poziom 0, strefa A12 (czerwona)",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "GreenWay - Auchan Modlińska Warszawa",
+        "network": "GreenWay",
+        "opening_hours": "24/7",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281",
+        "phone": "+48 58 325 10 77",
+        "scooter": "no",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "1",
+        "socket:type2:output": "42 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0001296,
+          52.2946503
+        ]
+      },
+      "id": "node/6853379075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853379076",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:membership_card": "yes",
+        "bicycle": "no",
+        "capacity": "4",
+        "description": "Level -2, sector 57",
+        "description:en": "Level -2, sector 57",
+        "description:pl": "Poziom -2, sektor 57",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "GreenWay - Galeria Młociny Warszawa",
+        "network": "GreenWay",
+        "opening_hours": "24/7",
+        "phone": "+48 58 325 10 77",
+        "scooter": "no",
+        "socket:chademo": "2",
+        "socket:chademo:output": "50 kW",
+        "socket:type2": "2",
+        "socket:type2:output": "42 kW",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "50 kW",
+        "website": "https://greenwaypolska.pl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9318358,
+          52.2963858
+        ]
+      },
+      "id": "node/6853379076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7911207410",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "yes",
+        "motorcar": "yes",
+        "name": "Ionium",
+        "socket:type2_combo": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0095406,
+          52.2563586
+        ]
+      },
+      "id": "node/7911207410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8418977381",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.093059,
+          52.2347698
+        ]
+      },
+      "id": "node/8418977381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8482576772",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "PGE Nowa Energia",
+        "ref": "MZ001",
+        "socket:chademo": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0315554,
+          52.250577
+        ]
+      },
+      "id": "node/8482576772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8635189191",
+        "amenity": "charging_station",
+        "capacity": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.050461,
+          52.2520361
+        ]
+      },
+      "id": "node/8635189191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8781081735",
+        "amenity": "charging_station",
+        "name": "EV charger",
+        "operator": "Signet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1060912,
+          52.2343168
+        ]
+      },
+      "id": "node/8781081735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9004247474",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8951394,
+          52.2314636
+        ]
+      },
+      "id": "node/9004247474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9083780359",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9650368,
+          52.2477503
+        ]
+      },
+      "id": "node/9083780359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9083780360",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.965093,
+          52.2479249
+        ]
+      },
+      "id": "node/9083780360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9223189489",
+        "addr:country": "PL",
+        "amenity": "charging_station",
+        "brand": "Tesla Supercharger",
+        "brand:wikidata": "Q17089620",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "Warsaw Supercharger",
+        "opening_hours": "24/7",
+        "operator": "Tesla, Inc.",
+        "socket:tesla_supercharger": "2",
+        "socket:tesla_supercharger:output": "150 kW",
+        "socket:tesla_supercharger_ccs": "2",
+        "socket:tesla_supercharger_ccs:output": "150 kW",
+        "website": "https://www.tesla.com/findus/location/supercharger/warsawsupercharger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0293321,
+          52.2077324
+        ]
+      },
+      "id": "node/9223189489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9301176295",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0843962,
+          52.3042308
+        ]
+      },
+      "id": "node/9301176295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9301176296",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0843237,
+          52.3042183
+        ]
+      },
+      "id": "node/9301176296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9306259821",
+        "access": "yes",
+        "amenity": "charging_station",
+        "bicycle": "no",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "operator": "PGE Nowa Energia",
+        "parking:fee": "no",
+        "ref": "MZ007",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2_cable": "1",
+        "socket:type2_cable:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0133208,
+          52.1790682
+        ]
+      },
+      "id": "node/9306259821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9309544914",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "GO+EAuto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0421527,
+          52.2261421
+        ]
+      },
+      "id": "node/9309544914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9314895817",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "Niebieski Szlak",
+        "capacity": "2",
+        "covered": "no",
+        "operator": "Lotos",
+        "operator:wikidata": "Q1256909",
+        "website": "https://www.niebieskiszlak.pl/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0660774,
+          52.2739302
+        ]
+      },
+      "id": "node/9314895817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9315056513",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Lotos",
+        "operator:wikidata": "Q1256909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.950273,
+          52.1914674
+        ]
+      },
+      "id": "node/9315056513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9319096228",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "fee": "yes",
+        "name": "Elocity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9922689,
+          52.2277256
+        ]
+      },
+      "id": "node/9319096228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9329320458",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649",
+        "operator:wikipedia": "pl:Polski Koncern Naftowy Orlen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.959496,
+          52.259154
+        ]
+      },
+      "id": "node/9329320458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9363675399",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "ZTM Warszawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0273492,
+          52.1630336
+        ]
+      },
+      "id": "node/9363675399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9363675901",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "charging_station:output": "22 kW",
+        "operator": "ZTM Warszawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9223297,
+          52.2219775
+        ]
+      },
+      "id": "node/9363675901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9363699304",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "ZTM Warszawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1603952,
+          52.2133432
+        ]
+      },
+      "id": "node/9363699304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9363706229",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "ZTM Warszawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1494562,
+          52.2227118
+        ]
+      },
+      "id": "node/9363706229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365300619",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0038167,
+          52.2320012
+        ]
+      },
+      "id": "node/9365300619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365314320",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0013872,
+          52.2435156
+        ]
+      },
+      "id": "node/9365314320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365314321",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9567859,
+          52.1898183
+        ]
+      },
+      "id": "node/9365314321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365317077",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9710359,
+          52.2399363
+        ]
+      },
+      "id": "node/9365317077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365319687",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9952849,
+          52.1834648
+        ]
+      },
+      "id": "node/9365319687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365319694",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0517502,
+          52.1813653
+        ]
+      },
+      "id": "node/9365319694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365322750",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9088661,
+          52.2050619
+        ]
+      },
+      "id": "node/9365322750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365325732",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9920617,
+          52.2250251
+        ]
+      },
+      "id": "node/9365325732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365325823",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.984034,
+          52.2317156
+        ]
+      },
+      "id": "node/9365325823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365337822",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0272407,
+          52.2754057
+        ]
+      },
+      "id": "node/9365337822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9365340537",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0543357,
+          52.1817282
+        ]
+      },
+      "id": "node/9365340537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366078410",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON",
+        "payment:app": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0180249,
+          52.2870121
+        ]
+      },
+      "id": "node/9366078410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366116036",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0692192,
+          52.2612437
+        ]
+      },
+      "id": "node/9366116036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366120214",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0487614,
+          52.1872617
+        ]
+      },
+      "id": "node/9366120214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366122578",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0964561,
+          52.2411602
+        ]
+      },
+      "id": "node/9366122578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366140295",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "NOXO.",
+        "operator:wikidata": "Q127699093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0795155,
+          52.3045169
+        ]
+      },
+      "id": "node/9366140295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366148948",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "E.ON",
+        "operator:wikidata": "Q270223",
+        "operator:wikipedia": "de:E.ON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9843425,
+          52.2284447
+        ]
+      },
+      "id": "node/9366148948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366848891",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Revnet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9352688,
+          52.3011478
+        ]
+      },
+      "id": "node/9366848891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9366849926",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Revnet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.933169,
+          52.2011304
+        ]
+      },
+      "id": "node/9366849926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9373055759",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Revnet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.933963,
+          52.1702717
+        ]
+      },
+      "id": "node/9373055759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9374179715",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "operator": "Arinea",
+        "operator:wikidata": "Q113289471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1028435,
+          52.1191942
+        ]
+      },
+      "id": "node/9374179715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9374644509",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Żabka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.076466,
+          52.3200713
+        ]
+      },
+      "id": "node/9374644509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9374685022",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Arinea",
+        "operator:wikidata": "Q113289471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9592366,
+          52.1838115
+        ]
+      },
+      "id": "node/9374685022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9377496169",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "EV+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9843122,
+          52.1893677
+        ]
+      },
+      "id": "node/9377496169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9377502538",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649",
+        "operator:wikipedia": "pl:Polski Koncern Naftowy Orlen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9830748,
+          52.2386321
+        ]
+      },
+      "id": "node/9377502538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9378737529",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649",
+        "operator:wikipedia": "pl:Polski Koncern Naftowy Orlen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0876688,
+          52.2366401
+        ]
+      },
+      "id": "node/9378737529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9378774528",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649",
+        "operator:wikipedia": "pl:Polski Koncern Naftowy Orlen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0658834,
+          52.2503235
+        ]
+      },
+      "id": "node/9378774528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9378779458",
+        "amenity": "charging_station",
+        "capacity": "3",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649",
+        "operator:wikipedia": "pl:Polski Koncern Naftowy Orlen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0593739,
+          52.2238166
+        ]
+      },
+      "id": "node/9378779458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9378818153",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9584457,
+          52.2255114
+        ]
+      },
+      "id": "node/9378818153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9777572470",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "brand": "Enelion",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "parking:fee": "no",
+        "socket:type2": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0446873,
+          52.148982
+        ]
+      },
+      "id": "node/9777572470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9779805719",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Orange"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.941524,
+          52.2228655
+        ]
+      },
+      "id": "node/9779805719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9809326482",
+        "amenity": "charging_station",
+        "capacity": "10",
+        "fee": "yes",
+        "motor_vehicle": "no",
+        "operator": "eON",
+        "scooter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0038368,
+          52.2305841
+        ]
+      },
+      "id": "node/9809326482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10138078284",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "covered": "no",
+        "operator": "Zakład Energoeletroniki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0092808,
+          52.2210697
+        ]
+      },
+      "id": "node/10138078284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10152497184",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9940321,
+          52.1097614
+        ]
+      },
+      "id": "node/10152497184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10601710262",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9794158,
+          52.2443661
+        ]
+      },
+      "id": "node/10601710262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10601710263",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.979119,
+          52.2442945
+        ]
+      },
+      "id": "node/10601710263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10697477380",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9995731,
+          52.3142568
+        ]
+      },
+      "id": "node/10697477380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10702403385",
+        "amenity": "charging_station",
+        "capacity": "4",
+        "fee": "yes",
+        "operator": "eOn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9865138,
+          52.2352747
+        ]
+      },
+      "id": "node/10702403385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10743334402",
+        "access": "yes",
+        "amenity": "charging_station",
+        "capacity": "6",
+        "fee": "yes",
+        "operator": "eON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.045016,
+          52.1488809
+        ]
+      },
+      "id": "node/10743334402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10802082226",
+        "access": "private",
+        "amenity": "charging_station",
+        "operator": "PGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0047221,
+          52.2242509
+        ]
+      },
+      "id": "node/10802082226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10827506992",
+        "access": "private",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009388,
+          52.2264179
+        ]
+      },
+      "id": "node/10827506992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10935393728",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9958344,
+          52.1933038
+        ]
+      },
+      "id": "node/10935393728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10937990285",
+        "amenity": "charging_station",
+        "authentication:nfc": "yes",
+        "capacity": "2",
+        "charging_station:output": "44",
+        "fee": "yes",
+        "motorcar": "yes",
+        "socket:type2": "2",
+        "socket:type2:output": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0404326,
+          52.1636768
+        ]
+      },
+      "id": "node/10937990285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11016705512",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "charging_station:output": "22",
+        "fee": "yes",
+        "motorcar": "yes",
+        "socket:type2_cable": "1",
+        "socket:type2_cable:output": "22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0472034,
+          52.1615185
+        ]
+      },
+      "id": "node/11016705512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11028321861",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "OptimalEnergy",
+        "capacity": "2",
+        "covered": "no",
+        "email": "support@elo.city",
+        "name": "SGH",
+        "opening_hours": "24/7",
+        "phone": "+48 222 907 992",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://optimalenergy.pl/stacje-ladowania-samochodow-elektrycznych/mapa-stacji-ladowania/warszawa/?id=82031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0080586,
+          52.2090401
+        ]
+      },
+      "id": "node/11028321861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11028321862",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "OptimalEnergy",
+        "capacity": "2",
+        "covered": "no",
+        "email": "support@elo.city",
+        "name": "SGH",
+        "opening_hours": "24/7",
+        "phone": "+48 222 907 992",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "website": "https://optimalenergy.pl/stacje-ladowania-samochodow-elektrycznych/mapa-stacji-ladowania/warszawa/?id=82031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0095609,
+          52.209184
+        ]
+      },
+      "id": "node/11028321862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11061730570",
+        "amenity": "charging_station",
+        "fee": "yes",
+        "operator": "Orlen",
+        "payment:cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0056604,
+          52.2456562
+        ]
+      },
+      "id": "node/11061730570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11150539716",
+        "amenity": "charging_station",
+        "capacity": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9990541,
+          52.1821325
+        ]
+      },
+      "id": "node/11150539716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11150539721",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9981849,
+          52.1815668
+        ]
+      },
+      "id": "node/11150539721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11151284494",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9959242,
+          52.1762867
+        ]
+      },
+      "id": "node/11151284494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966444",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0022888,
+          52.2547509
+        ]
+      },
+      "id": "node/11157966444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966445",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0041213,
+          52.2554145
+        ]
+      },
+      "id": "node/11157966445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966446",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9421613,
+          52.3345244
+        ]
+      },
+      "id": "node/11157966446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966447",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9421425,
+          52.3343441
+        ]
+      },
+      "id": "node/11157966447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966448",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9248498,
+          52.272278
+        ]
+      },
+      "id": "node/11157966448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966449",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9246603,
+          52.2724158
+        ]
+      },
+      "id": "node/11157966449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966450",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9249187,
+          52.2723803
+        ]
+      },
+      "id": "node/11157966450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966451",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9247249,
+          52.2725178
+        ]
+      },
+      "id": "node/11157966451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966452",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0208351,
+          52.2430229
+        ]
+      },
+      "id": "node/11157966452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966453",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0207057,
+          52.2430065
+        ]
+      },
+      "id": "node/11157966453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966454",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0205665,
+          52.2431605
+        ]
+      },
+      "id": "node/11157966454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966455",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9636447,
+          52.2076687
+        ]
+      },
+      "id": "node/11157966455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966456",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9633884,
+          52.2077492
+        ]
+      },
+      "id": "node/11157966456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966457",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0839866,
+          52.1676855
+        ]
+      },
+      "id": "node/11157966457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966458",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0841729,
+          52.1678603
+        ]
+      },
+      "id": "node/11157966458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966459",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0841476,
+          52.1680627
+        ]
+      },
+      "id": "node/11157966459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966460",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.083961,
+          52.1678712
+        ]
+      },
+      "id": "node/11157966460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966461",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0837561,
+          52.1682239
+        ]
+      },
+      "id": "node/11157966461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966462",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0837793,
+          52.1680427
+        ]
+      },
+      "id": "node/11157966462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11157966463",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1175953,
+          52.2337734
+        ]
+      },
+      "id": "node/11157966463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11159481672",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "no",
+        "manufacturer": "Ekoenergetyka",
+        "note": "Ładowarka pantografowa przeznaczona do ładowania autobusów Zarządu Transportu Miejskiego w Warszawie",
+        "operator": "ZTM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0048232,
+          52.2446891
+        ]
+      },
+      "id": "node/11159481672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11164419034",
+        "access": "customers",
+        "amenity": "charging_station",
+        "brand": "Moxo Energy",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9479379,
+          52.2123988
+        ]
+      },
+      "id": "node/11164419034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11202038430",
+        "amenity": "charging_station",
+        "brand": "EkoEn",
+        "capacity": "6",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9971403,
+          52.1781904
+        ]
+      },
+      "id": "node/11202038430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11202478929",
+        "access": "permissive",
+        "amenity": "charging_station",
+        "bicycle": "yes",
+        "capacity": "10",
+        "check_date": "2023-10-07",
+        "covered": "yes",
+        "motorcar": "no",
+        "motorcycle": "no",
+        "small_electric_vehicle": "yes",
+        "truck": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0144844,
+          52.217792
+        ]
+      },
+      "id": "node/11202478929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11222863211",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Elocity"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9679966,
+          52.2197164
+        ]
+      },
+      "id": "node/11222863211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11492611200",
+        "amenity": "charging_station",
+        "brand": "Budimex Mobility",
+        "capacity": "3",
+        "motorcar": "yes",
+        "ref": "WAW-001",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50",
+        "socket:type1_combo": "1",
+        "socket:type2": "1",
+        "socket:type2:output": "22",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9700341,
+          52.2305606
+        ]
+      },
+      "id": "node/11492611200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11582146211",
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "brand": "Powerdot",
+        "brand:wikidata": "Q123574541",
+        "capacity": "2",
+        "fee": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "operator": "Powerdot",
+        "operator:wikidata": "Q123574541",
+        "parking:fee": "no",
+        "ref": "PAC621",
+        "socket:chademo": "1",
+        "socket:chademo:output": "60",
+        "socket:type2": "1",
+        "socket:type2:output": "22",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0922937,
+          52.1469828
+        ]
+      },
+      "id": "node/11582146211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11642493938",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9377298,
+          52.2864886
+        ]
+      },
+      "id": "node/11642493938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11642493939",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9376817,
+          52.2864496
+        ]
+      },
+      "id": "node/11642493939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11703290443",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Lidl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8817448,
+          52.1969293
+        ]
+      },
+      "id": "node/11703290443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11722339124",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "EV+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8773341,
+          52.2042188
+        ]
+      },
+      "id": "node/11722339124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11730815347",
+        "access": "yes",
+        "addr:city": "Warszawa",
+        "addr:city:simc": "0918123",
+        "addr:housenumber": "30",
+        "addr:postcode": "01-337",
+        "addr:street": "Połczyńska",
+        "amenity": "charging_station",
+        "brand": "Circle K",
+        "brand:wikidata": "Q3268010",
+        "capacity": "2",
+        "fee": "yes",
+        "name": "Circle K",
+        "operator": "Circle K",
+        "operator:wikidata": "Q3268010",
+        "payment:cards": "yes",
+        "payment:rfid": "yes",
+        "socket:chademo": "1",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "300 kW",
+        "website": "https://www.circlek.pl/ev"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9159605,
+          52.2204023
+        ]
+      },
+      "id": "node/11730815347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11795610461",
+        "amenity": "charging_station",
+        "brand": "PowerDot",
+        "capacity": "2",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1097874,
+          52.1660097
+        ]
+      },
+      "id": "node/11795610461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11804296018",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "EV+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8782086,
+          52.2061849
+        ]
+      },
+      "id": "node/11804296018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11854356893",
+        "amenity": "charging_station",
+        "brand": "Innogy",
+        "capacity": "2",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0189115,
+          52.127132
+        ]
+      },
+      "id": "node/11854356893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11858230664",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.019207,
+          52.1068107
+        ]
+      },
+      "id": "node/11858230664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11877335817",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "capacity": "1",
+        "fee": "yes",
+        "motorcar": "yes",
+        "operator": "ChargeEuropa",
+        "socket:type2_cable": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0542664,
+          52.1533367
+        ]
+      },
+      "id": "node/11877335817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11952518869",
+        "amenity": "charging_station",
+        "charge": "2 PLN",
+        "description": "Lidl",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Elocity",
+        "operator:wikidata": "Q129964130"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0650661,
+          52.2522494
+        ]
+      },
+      "id": "node/11952518869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11983587409",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9571541,
+          52.2391862
+        ]
+      },
+      "id": "node/11983587409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12009581278",
+        "amenity": "charging_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0847589,
+          52.2302247
+        ]
+      },
+      "id": "node/12009581278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12025295437",
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "capacity": "2",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "network": "Charge Europa",
+        "socket:type2_cable": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9614101,
+          52.1943506
+        ]
+      },
+      "id": "node/12025295437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12025609489",
+        "amenity": "charging_station",
+        "brand": "Pure City",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9513556,
+          52.1917203
+        ]
+      },
+      "id": "node/12025609489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12050712531",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0031853,
+          52.1857293
+        ]
+      },
+      "id": "node/12050712531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12119001234",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes",
+        "motorcar": "yes",
+        "motorcycle": "yes",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2_cable": "1",
+        "socket:type2_cable:output": "22 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "22 kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.95822,
+          52.1909516
+        ]
+      },
+      "id": "node/12119001234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12160524749",
+        "amenity": "charging_station",
+        "brand": "GreenWay",
+        "capacity": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.026303,
+          52.2407972
+        ]
+      },
+      "id": "node/12160524749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12185925767",
+        "access": "private",
+        "amenity": "charging_station",
+        "brand": "Orlen",
+        "capacity": "2",
+        "note": "Typ CCS",
+        "operator": "Orlen",
+        "operator:wikidata": "Q971649",
+        "ref": "8263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0268693,
+          52.2257992
+        ]
+      },
+      "id": "node/12185925767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12247124255",
+        "amenity": "charging_station",
+        "brand": "greenway",
+        "capacity": "2",
+        "operator": "GreenWay",
+        "operator:wikidata": "Q116450281",
+        "socket:type2_combo": "2",
+        "socket:type2_combo:output": "140kW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9441231,
+          52.3499766
+        ]
+      },
+      "id": "node/12247124255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12366011387",
+        "amenity": "charging_station",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9795932,
+          52.2983212
+        ]
+      },
+      "id": "node/12366011387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12393810680",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Lidl",
+        "operator:wikidata": "Q151954"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8959878,
+          52.2202658
+        ]
+      },
+      "id": "node/12393810680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12396099004",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "fee": "yes",
+        "operator": "EV+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8764472,
+          52.2052719
+        ]
+      },
+      "id": "node/12396099004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12396122303",
+        "access": "private",
+        "amenity": "charging_station",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "EV+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8763199,
+          52.2057798
+        ]
+      },
+      "id": "node/12396122303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12417572246",
+        "access": "private",
+        "amenity": "charging_station",
+        "authentication:contactless": "yes",
+        "capacity": "2",
+        "covered": "no",
+        "level": "0",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0606919,
+          52.2471206
+        ]
+      },
+      "id": "node/12417572246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12417572247",
+        "access": "private",
+        "amenity": "charging_station",
+        "authentication:contactless": "yes",
+        "capacity": "2",
+        "covered": "no",
+        "level": "0",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0607638,
+          52.2471152
+        ]
+      },
+      "id": "node/12417572247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12417572248",
+        "access": "private",
+        "amenity": "charging_station",
+        "authentication:contactless": "yes",
+        "capacity": "2",
+        "covered": "no",
+        "level": "0",
+        "motorcar": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0608714,
+          52.2471083
+        ]
+      },
+      "id": "node/12417572248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12509452601",
+        "amenity": "charging_station",
+        "name": "hydrapress kuligow greenway",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.132134,
+          52.1849794
+        ]
+      },
+      "id": "node/12509452601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12516668675",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "eleport",
+        "capacity": "2",
+        "ref": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9300438,
+          52.3024777
+        ]
+      },
+      "id": "node/12516668675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12516668676",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "eleport",
+        "capacity": "2",
+        "ref": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9300974,
+          52.3024462
+        ]
+      },
+      "id": "node/12516668676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12516668677",
+        "access": "yes",
+        "amenity": "charging_station",
+        "brand": "eleport",
+        "capacity": "2",
+        "ref": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9301505,
+          52.3024149
+        ]
+      },
+      "id": "node/12516668677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12526080701",
+        "amenity": "charging_station",
+        "name": "galeria bemowo greenway 2x 22kw sockets on 1st floor",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9325306,
+          52.2644394
+        ]
+      },
+      "id": "node/12526080701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12526176701",
+        "amenity": "charging_station",
+        "name": "plugbox broniewskiego 2ccs 1t2c 2x 150kw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9649019,
+          52.2667424
+        ]
+      },
+      "id": "node/12526176701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12546355154",
+        "amenity": "charging_station",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9965578,
+          52.108767
+        ]
+      },
+      "id": "node/12546355154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12551080343",
+        "amenity": "charging_station",
+        "brand": "Polenergia",
+        "capacity": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0139125,
+          52.1704587
+        ]
+      },
+      "id": "node/12551080343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12551126850",
+        "amenity": "charging_station",
+        "capacity": "1",
+        "motorcar": "yes",
+        "opening_hours": "24/7",
+        "operator": "Elomoto Sp. z o.o."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8834289,
+          52.2009047
+        ]
+      },
+      "id": "node/12551126850"
+    }
+  ]
+}
