@@ -78,15 +78,11 @@ geojsonLayer.on("data:loaded", function () {
         var coordinates = layer.feature.geometry.coordinates;
         var latlng = L.latLng(coordinates[1], coordinates[0]);
     
-        // Uzyskanie wartości "capacity" z właściwości
         var capacity = layer.feature.properties["capacity"] ? parseInt(layer.feature.properties["capacity"]) : 1;
         console.log(capacity);
     
-        // Jeśli chcesz zwiększyć zakres wagi, aby zauważyć różnicę
-        var weight = (capacity/14)*5// Można pomnożyć przez stałą, np. 10
-   
-        // Dodanie punktu do heatmapy z wagą
-        heatData.push([latlng.lat, latlng.lng, weight]); // Trzeci argument to waga punktu
+        var weight = (capacity/14)*5
+        heatData.push([latlng.lat, latlng.lng, weight]);
     });
 
     var heatLayer = L.heatLayer(heatData, {
